@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mingming Chen / Assistant Professor"
+title                    : "Mingming Chen"
 title_separator          : "-"
 name                     : &name "Mingming Chen"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "/images/mingming.png"
   name             : "Mingming Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Incoming Assistant Professor at Kansas State University"
   location         : "Earth"
   employer         : "Kansas State University"
   uri              : # URL
