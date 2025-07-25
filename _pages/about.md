@@ -11,11 +11,11 @@ Welcome to Mingming's webpage! I am an incoming assistant professor in Computer 
 ## PhD Openings in Secure Software-Defined Networks & Cyber-Physical Systems
 **Kansas State University – starting Spring/Fall 2026**
 
-Dr. **Mingming Chen**—joining K-State as a tenure-track Assistant Professor in August 2025—is recruiting two fully funded PhD students to design and build a next-generation SDN testbed.  
-Our flagship *vertical* is **smart agriculture**, where secure SDN control of UAV swarms, in-field sensors, and edge compute nodes can transform crop monitoring, resource management, and food security. Please send me your CV, transcript, brief research statement if you are interested. 
+Dr. Mingming Chen—joining K-State as a tenure-track Assistant Professor in August 2025—is recruiting **two fully funded PhD students** to design and build a next-generation SDN testbed.  
+Our flagship *vertical* is smart agriculture, where secure SDN control of UAV swarms, in-field sensors, and edge compute nodes can transform crop monitoring, resource management, and food security. Please send me your CV, transcript, brief research statement if you are interested. 
 
 > **Why smart agriculture?**  
-> We maintain active collaborations with precision-agriculture researchers at K-State. 
+> We maintain active collaborations with precision-agriculture professors at K-State. 
 
 News
 ======
