@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mingming Chen / KSU"
+title                    : "Mingming Chen / K-State"
 title_separator          : "-"
 name                     : &name "Mingming Chen"
 description              : &description "personal description"
