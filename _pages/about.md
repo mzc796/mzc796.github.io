@@ -32,23 +32,23 @@ News
 
 - [11/26/2024] I am honored to have been selected as a member of the USENIX Security 2025 Artifact Evaluation Committee.
 
-[10/08/2024] I will be delivering two presentations ([11 am Oct 14](https://www.sigsac.org/ccs/CCS2024/program/doctoral-symposium.html), [2:45 pm Oct 17](https://www.sigsac.org/ccs/CCS2024/program/schedule.html)) at CCS 2024 in Salt Lake City, USA (Oct 14-18, 2024). Looking forward to engaging in research discussions!
+- [10/08/2024] I will be delivering two presentations ([11 am Oct 14](https://www.sigsac.org/ccs/CCS2024/program/doctoral-symposium.html), [2:45 pm Oct 17](https://www.sigsac.org/ccs/CCS2024/program/schedule.html)) at CCS 2024 in Salt Lake City, USA (Oct 14-18, 2024). Looking forward to engaging in research discussions!
 
-[10/08/2024] I will be presenting two posters at Penn State [Industry Day 2024](https://insr.psu.edu/industry-day-2024/).
+- [10/08/2024] I will be presenting two posters at Penn State [Industry Day 2024](https://insr.psu.edu/industry-day-2024/).
 
-[08/25/2024] My submission of "[Evolving Network Security In the Era of Network Programmability](https://doi.org/10.1145/3658644.3690859
+- [08/25/2024] My submission of "[Evolving Network Security In the Era of Network Programmability](https://doi.org/10.1145/3658644.3690859
 )" has been accepted for presentation at the ACM CCS’24 Doctoral Symposium.
 
-[08/24/2024] I won all badges for the [artifacts evaluation](https://zenodo.org/records/13292328) of our paper "Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning" at CCS 24'.
+- [08/24/2024] I won all badges for the [artifacts evaluation](https://zenodo.org/records/13292328) of our paper "Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning" at CCS 24'.
 
-[08/24/2024] Our paper "[Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning](https://dl.acm.org/doi/10.1145/3658644.3690345)" has been accepted at CCS 24'.
+- [08/24/2024] Our paper "[Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning](https://dl.acm.org/doi/10.1145/3658644.3690345)" has been accepted at CCS 24'.
 
-[07/29-31/2024] I presented our work "Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints" in ICCCN 24' (Jul. 29th, 2024, Kona, HI, US).
+- [07/29-31/2024] I presented our work "Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints" in ICCCN 24' (Jul. 29th, 2024, Kona, HI, US).
 
-[06/10-14/2024] I volunteered at Penn State [CSE Summer Camp](https://sites.psu.edu/csesummercamp2024/).
+- [06/10-14/2024] I volunteered at Penn State [CSE Summer Camp](https://sites.psu.edu/csesummercamp2024/).
 
-[05/28/2024] Our paper "[OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget](https://www.usenix.org/conference/usenixsecurity24/presentation/george)" has been accepted at Usenix Security 24'.
+- [05/28/2024] Our paper "[OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget](https://www.usenix.org/conference/usenixsecurity24/presentation/george)" has been accepted at Usenix Security 24'.
 
-[05/02/2024] Our paper "[Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints](https://ieeexplore.ieee.org/abstract/document/10637612)" has been accepted at ICCCN 24'.
+- [05/02/2024] Our paper "[Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints](https://ieeexplore.ieee.org/abstract/document/10637612)" has been accepted at ICCCN 24'.
 
 Updated: 07/25/2025
