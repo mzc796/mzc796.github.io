@@ -24,13 +24,13 @@ Please send me your CV, transcript, and a brief research statement if you are in
 
 News
 ======
-[05/19/2025] I’m excited to be joining [Kansas State University](https://kcats.k-state.edu/) as a tenure-track Assistant Professor in August 2025! I’m looking for motivated PhD students interested in networked systems and security research. Feel free to send me your CV if interested.
+- [05/19/2025] I’m excited to be joining [Kansas State University](https://kcats.k-state.edu/) as a tenure-track Assistant Professor in August 2025! I’m looking for motivated PhD students interested in networked systems and security research. Feel free to send me your CV if interested.
 
-[02/18/2025] I successfully defended my thesis! I am deeply grateful for the invaluable mentorship and guidance from my committee and collaborators!
+- [02/18/2025] I successfully defended my thesis! I am deeply grateful for the invaluable mentorship and guidance from my committee and collaborators!
 
-[01/29/2025] I am serving as a Program Committee member for the IEEE/ACM Workshop on the Internet of Safe Things ([SafeThings 2025](https://safethings25.ieee-security.org)).
+- [01/29/2025] I am serving as a Program Committee member for the IEEE/ACM Workshop on the Internet of Safe Things ([SafeThings 2025](https://safethings25.ieee-security.org)).
 
-[11/26/2024] I am honored to have been selected as a member of the USENIX Security 2025 Artifact Evaluation Committee.
+- [11/26/2024] I am honored to have been selected as a member of the USENIX Security 2025 Artifact Evaluation Committee.
 
 [10/08/2024] I will be delivering two presentations ([11 am Oct 14](https://www.sigsac.org/ccs/CCS2024/program/doctoral-symposium.html), [2:45 pm Oct 17](https://www.sigsac.org/ccs/CCS2024/program/schedule.html)) at CCS 2024 in Salt Lake City, USA (Oct 14-18, 2024). Looking forward to engaging in research discussions!
 
