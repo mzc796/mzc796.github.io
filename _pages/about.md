@@ -8,14 +8,14 @@ redirect_from:
 ---
 Welcome to Mingming's webpage! I am an incoming assistant professor in Computer Science at **Kansas State University**. I recently earned my Ph.D. in Computer Science and Engineering from Penn State University. I am honored to be advised by [Tom La Porta](https://www.cse.psu.edu/~tfl12/) and [Trent Jaeger](https://www.trentjaeger.com/). I am also grateful for the collaboration and guidance from [Teryl Taylor](https://research.ibm.com/people/teryl-taylor) and [Fred Araujo](https://research.ibm.com/people/frederico-araujo). My research focuses on **network security**, with interests in Software-Defined Networking (SDN) security, optimization for defense placement, P4 programming, and machine learning–assisted security. My work has appeared in ACM CCS and USENIX Security and has led to the disclosure of multiple CVEs affecting widely used SDN controllers. I have hands-on experience with open-source SDN platforms, having contributed code to OpenDaylight earlier in my career. I conducted research supported by Army Research Lab funding and a collaboration with IBM Research. I also serve on program committees and artifact evaluation boards in the security community.
 
-## PhD Openings in Secure SDN & Cyber-Physical Systems (CPS)
+## PhD Openings
 
 I am recruiting **two fully funded PhD students in Spring/Fall 2026** to design and build a next-generation SDN testbed. Research topics you can pursue are:
-- SDN-powered Smart Agriculture: Our flagship *vertical* is smart agriculture, where secure SDN control of UAV swarms, in-field sensors, and edge compute nodes can transform crop monitoring, resource management, and food security.
+- **SDN-powered Smart Agriculture**: Our flagship *vertical* is smart agriculture, where secure SDN control of UAV swarms, in-field sensors, and edge compute nodes can transform crop monitoring, resource management, and food security.
 > **Why smart agriculture?**  
 > We maintain active collaborations with precision-agriculture professors at K-State. 
-- Security & Privacy of 5G network slicing: Investigate cross-slice isolation, side-channel defenses, and privacy-preserving orchestration to stop leakage and abuse of resources in multi-tenant 5G cores.  
-- Security of SDN and Programmable Data Plane: Build a protocol-agnostic security toolbox—combining misuse-driven testing, interface-aware fuzzing, and dynamic invariants—to uncover and mitigate cross-layer vulnerabilities.
+- **Security & Privacy of 5G network slicing**: Investigate cross-slice isolation, side-channel defenses, and privacy-preserving orchestration to stop leakage and abuse of resources in multi-tenant 5G cores.  
+- **Security of SDN and Programmable Data Plane**: Build a protocol-agnostic security toolbox—combining misuse-driven testing, interface-aware fuzzing, and dynamic invariants—to uncover and mitigate cross-layer vulnerabilities.
 
 Please send me your CV, transcript, and a brief research statement if you are interested.
 
