@@ -35,7 +35,7 @@ Our budgeted optimal algorithm efficiently places sampling points in evaluated n
 
 ---
 
-## OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget **[pdf]({{ "/files/usenixsecurity24_george.pdf" | relative_url }})** · **[bib]({{ "/files/optisan_usenixsec24.bib" | relative_url }})**
+## OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget **[pdf]({{ "/files/usenixsecurity24-george.pdf" | relative_url }})** · **[bib]({{ "/files/optisan_usenixsec24.bib" | relative_url }})**
 
 ### Protect Spatial Memory Errors ![OPTISAN / opti_san](/images/dr_mario.png){: .align-right width="320"}
 Spatial memory errors, such as buffer overflow, have been widely observed but are challenging to mitigate effectively within an affordable performance overhead. OPTISAN addresses this challenge by recognizing that identity-based and location-based defenses can impose varying overhead levels when safeguarding against the same unsafe memory operations. To maximize protection against exploitable objects, OPTISAN strategically applies multiple spatial memory defenses across the call graph.
