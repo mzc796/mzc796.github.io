@@ -28,10 +28,10 @@ main:
 
   - title: "Research"
     children:
-     - title: "Security Philosophy"
-        url: /security-philosophy/
-      - title: "Projects"
-        url: /projects/
+    - title: "Security Philosophy"
+      url: /security-philosophy/
+    - title: "Projects"
+      url: /projects/
     
   - title: "Beyond Research"
     url: /beyond_research/
