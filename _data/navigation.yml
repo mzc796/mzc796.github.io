@@ -29,7 +29,7 @@ main:
   - title: "Research & Projects"
     url: /projects/
     
-  - title "Beyond Research"
+  - title: "Beyond Research"
     url: /beyond_research/
   # - title: "CV"
   #   url: /cv-json/
