@@ -6,7 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf](https://drive.google.com/file/d/1v5k8l3S4j4d2eW0b1r7S8mS0yHcD8m8t/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1d2Z3wQkXf-bib-example/view?usp=sharing)**
+## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf]({{ "/files/CCS_p3704-chen.pdf" | relative_url }})** ·
+**[bib]({{ "/files/marionette-ccs24.bib" | relative_url }})**
+
 
 ### Flow entry-induced Topology Poisoning ![Marionette / topology poisoning](/images/topo_poisoning.png){: .align-right width="320"}
 By identifying an overlooked vulnerability in which flow entries designed for traffic routing can influence topology discovery results, I uncovered a new attack vector such that a malicious application or a malicious controller in a controller cluster may craft poisonous flow entries, leading the legitimate controller to persistently and independently discover a deceptive topology conducive to malicious activities.
