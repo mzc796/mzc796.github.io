@@ -22,10 +22,10 @@ I am fascinated by the detailed, sophisticated, time-consuming, beautiful projec
 
 Giving up is not part of my plan, even with 0 publications and 1 newborn when I was in the 4th year of my PhD. I have the best advisors ever.
 
+
+![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.jpg" | relative_url }}){: .align-left width="360" }
 ![Newborn foot in hand]({{ "/images/tinyfoot.jpeg" | relative_url }}){: .align-right width="360" }
 
 <br clear="all"/>
-
-![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.jpg" | relative_url }}){: style="max-width: 720px; width: 100%;" }
 
 <small>Artwork credit: Amanda Oleander (shared here as an inspirational reference).</small>
