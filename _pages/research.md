@@ -21,7 +21,6 @@ classes: wide
 <br clear="all"/>
 
 # Projects
-
 ## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf]({{ "/files/CCS_p3704-chen.pdf" | relative_url }})** · **[bib]({{ "/files/marionette_ccs24.bib" | relative_url }})**
 
 
