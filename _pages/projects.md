@@ -6,11 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning
-![Marionette / topology poisoning](/images/topo_poisoning.png){: .align-right width="320"}
-**[pdf](https://drive.google.com/file/d/1v5k8l3S4j4d2eW0b1r7S8mS0yHcD8m8t/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1d2Z3wQkXf-bib-example/view?usp=sharing)**
+## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf](https://drive.google.com/file/d/1v5k8l3S4j4d2eW0b1r7S8mS0yHcD8m8t/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1d2Z3wQkXf-bib-example/view?usp=sharing)**
 
-### Flow entry-induced Topology Poisoning
+### Flow entry-induced Topology Poisoning ![Marionette / topology poisoning](/images/topo_poisoning.png){: .align-right width="320"}
 By identifying an overlooked vulnerability in which flow entries designed for traffic routing can influence topology discovery results, I uncovered a new attack vector such that a malicious application or a malicious controller in a controller cluster may craft poisonous flow entries, leading the legitimate controller to persistently and independently discover a deceptive topology conducive to malicious activities.
 
 I successfully deployed Marionette attacks on both ONOS and OpenDaylight clusters, and five open-source controllers, while systematically evading existing defenses. I also show that Marionette can attack nine different SDN discovery protocols. The related video demos are on YouTube [ODL](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [ONOS_cluster](https://www.youtube.com/watch?v=dQw4w9WgXcQ). The related vulnerabilities I disclosed are [CVE-2024-37018](https://nvd.nist.gov/vuln/detail/CVE-2024-37018), [CVE-2024-46942](https://nvd.nist.gov/vuln/detail/CVE-2024-46942), and [CVE-2024-46943](https://nvd.nist.gov/vuln/detail/CVE-2024-46943).
@@ -22,8 +20,7 @@ The action-prior technology is adopted to accelerate training speed enabling us 
 <br clear="all"/>
 ---
 
-## Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints
-**[pdf](https://drive.google.com/file/d/1LL-ICCCN-paper-example/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1LL-bib-example/view?usp=sharing)**
+## Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints **[pdf](https://drive.google.com/file/d/1LL-ICCCN-paper-example/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1LL-bib-example/view?usp=sharing)**
 
 ### P4-driven Coordinated Sampling
 To address the challenge of high-rate flow-based sampling within the constraints of limited resources on each switch, a coordinated sampling framework is developed to place multiple P4-programmable switches along a flow to sample network packets with coordination. This framework provides dynamic sampling point activation, deactivation, and run-time configuration, capitalizing on the programmability of P4.
@@ -39,8 +36,7 @@ Our budgeted optimal algorithm efficiently places sampling points in evaluated n
 
 ---
 
-## OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget
-**[pdf](https://drive.google.com/file/d/1OPTISAN-paper-example/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1OPTISAN-bib-example/view?usp=sharing)**
+## OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget **[pdf](https://drive.google.com/file/d/1OPTISAN-paper-example/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1OPTISAN-bib-example/view?usp=sharing)**
 
 ### Protect Spatial Memory Errors
 Spatial memory errors, such as buffer overflow, have been widely observed but are challenging to mitigate effectively within an affordable performance overhead. OPTISAN addresses this challenge by recognizing that identity-based and location-based defenses can impose varying overhead levels when safeguarding against the same unsafe memory operations. To maximize protection against exploitable objects, OPTISAN strategically applies multiple spatial memory defenses across the call graph.
@@ -51,5 +47,3 @@ Given a program's memory operations and their estimated defense overhead, I deve
 The results indicate that the placement strategy produced by our budgeted multi-defense placement formulation increases protection by 18.5% on average across ten benchmark programs.
 
 ---
-
-**Email:** mzc796@psu.edu
