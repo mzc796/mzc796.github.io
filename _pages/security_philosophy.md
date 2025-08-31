@@ -10,10 +10,8 @@ classes: wide
 ![Security that blends into its ecosystem]({{ "/images/chameleon&owl.jpg" | relative_url }}){: .align-left width="280" }
 <br clear="all"/>
 **This is the security I strive for:**
-- **Light-weight:** Minimal overhead and low friction to deploy.
-- **Ecosystem-native:** Fits naturally into existing systems and workflows—no bolt-ons.
-- **Stealthy while protecting:** Quiet by default; visible when it matters.
-- **Resilient:** Failsafe and degrades gracefully.
-- **Measurable:** Clear objectives and evidence of impact.
+- **Light-weight.** Small footprint, small overhead.
+- **Ecosystem-native.** Fits naturally into existing workflows—no bolt-ons.
+- **Stealthy while protecting.** Quiet by default; visible when it matters.
 
 <br clear="all"/>
