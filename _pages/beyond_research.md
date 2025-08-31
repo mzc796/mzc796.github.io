@@ -8,7 +8,7 @@ classes: wide
 
 ## Myself
 
-I am fascinated by the detailed, sophisticated, time-consuming, beautiful projects. They used to be all kinds of handicrafts. Now I find a more meaningful mission --- research.
+I am fascinated by the detailed, sophisticated, beautiful projects. They used to be all kinds of handicrafts. Now I find a more meaningful mission --- research.
 
 ![Handmade hamburger bag]({{ "/images/bag.jpg" | relative_url }}){: .align-left width="300" }
 
