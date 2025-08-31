@@ -6,6 +6,10 @@ author_profile: true
 classes: wide
 ---
 
+# Research Philosophy
+
+I believe research should address real-world problems with social impact, especially those that are often overlooked, which can leave systems open to serious security vulnerabilities. My approach emphasizes experimentation and system-building, guided by cross-disciplinary thinking. I value clarity in communication—“less is more”—and strive to convey complex ideas in intuitive, pictorial ways.
+
 # Security Philosophy
 
 ![Octopus]({{ "/images/octopus.png" | relative_url }}){: .align-left width="320" }
