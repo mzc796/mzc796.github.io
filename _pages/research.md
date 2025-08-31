@@ -15,9 +15,9 @@ classes: wide
 <br clear="all"/>
 
 **The security I strive for:**
-- **Light-weight.** Small footprint, small overhead.
-- **Ecosystem-native.** Fits naturally into existing workflows—no bolt-ons.
-- **Stealthy while protecting.** Quiet by default; visible when it matters.
+- **Light-weight:** Small footprint, small overhead.
+- **Ecosystem-native:** Fits naturally into existing workflows—no bolt-ons.
+- **Stealthy while protecting:** Quiet by default; visible when it matters.
 
 <br clear="all"/>
 
