@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf]({{ "/files/CCS_p3704-chen.pdf" | relative_url }})** · **[bib]({{ "/files/marionette-ccs24.bib" | relative_url }})**
+## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf]({{ "/files/CCS_p3704-chen.pdf" | relative_url }})** · **[bib]({{ "/files/marionette_ccs24.bib" | relative_url }})**
 
 
 ### Flow entry-induced Topology Poisoning ![Marionette / topology poisoning](/images/topo_poisoning.png){: .align-right width="320"}
