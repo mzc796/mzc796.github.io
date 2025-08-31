@@ -27,7 +27,11 @@ main:
     url: /files/Mingming_CV_Aug_30.pdf
 
   - title: "Research"
-    url: /projects/
+    children:
+     - title: "Security Philosophy"
+        url: /security-philosophy/
+      - title: "Projects"
+        url: /projects/
     
   - title: "Beyond Research"
     url: /beyond_research/
