@@ -1,4 +1,3 @@
-> See also: [Security Philosophy](/security-philosophy/)
 ---
 title: "Projects"
 permalink: /projects/
