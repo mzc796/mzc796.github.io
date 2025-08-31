@@ -8,11 +8,11 @@ classes: wide
 
 ## Myself
 
-I am also fascinated by the detailed, sophisticated, time-consuming, beautiful projects. They used to be all kinds of handicrafts. Now I find a more meaningful mission --- research.
+I am fascinated by the detailed, sophisticated, time-consuming, beautiful projects. They used to be all kinds of handicrafts. Now I find a more meaningful mission --- research.
 
 ![Handmade hamburger bag]({{ "/images/bag.jpg" | relative_url }}){: .align-left .third }
-![(add another craft here if you want)]({{ "/images/rabbit-girl.jpg" | relative_url }}){: .align-left .third }
-![(optional extra)]({{ "/images/food-hearts.jpg" | relative_url }}){: .align-left .third }
+![(3D_Beaded_Rabbit_Girl)]({{ "/images/rabbit_girl.jpg" | relative_url }}){: .align-left .third }
+![(Only for Chloe)]({{ "/images/cakes.jpg" | relative_url }}){: .align-left .third }
 
 <div style="clear: both;"></div>
 
@@ -26,6 +26,6 @@ Giving up is not part of my plan, even with 0 publications and 1 newborn when I 
 
 <br clear="all"/>
 
-![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.JPG" | relative_url }}){: style="max-width: 720px; width: 100%;" }
+![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.jpg" | relative_url }}){: style="max-width: 720px; width: 100%;" }
 
 <small>Artwork credit: Amanda Oleander (shared here as an inspirational reference).</small>
