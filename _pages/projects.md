@@ -22,7 +22,7 @@ The action-prior technology is adopted to accelerate training speed enabling us 
 
 ## Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints **[pdf](https://drive.google.com/file/d/1LL-ICCCN-paper-example/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1LL-bib-example/view?usp=sharing)**
 
-### P4-driven Coordinated Sampling
+### P4-driven Coordinated Sampling ![Coord_Sampling / coord_sampling](/images/overcooked.png){: .align-right width="320"}
 To address the challenge of high-rate flow-based sampling within the constraints of limited resources on each switch, a coordinated sampling framework is developed to place multiple P4-programmable switches along a flow to sample network packets with coordination. This framework provides dynamic sampling point activation, deactivation, and run-time configuration, capitalizing on the programmability of P4.
 
 Our P4 coordinated sampling algorithm incurs negligible overhead on throughput and round-trip time with substantially low activation and deactivation time (around 0.05 seconds) as demonstrated on physical Arista 7170CD switches. The P4 code is on [Github](https://github.com/mzc796).
@@ -38,7 +38,7 @@ Our budgeted optimal algorithm efficiently places sampling points in evaluated n
 
 ## OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget **[pdf](https://drive.google.com/file/d/1OPTISAN-paper-example/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1OPTISAN-bib-example/view?usp=sharing)**
 
-### Protect Spatial Memory Errors
+### Protect Spatial Memory Errors ![OPTISAN / opti_san](/images/dr_mario.png){: .align-right width="320"}
 Spatial memory errors, such as buffer overflow, have been widely observed but are challenging to mitigate effectively within an affordable performance overhead. OPTISAN addresses this challenge by recognizing that identity-based and location-based defenses can impose varying overhead levels when safeguarding against the same unsafe memory operations. To maximize protection against exploitable objects, OPTISAN strategically applies multiple spatial memory defenses across the call graph.
 
 ### Budgeted Multi-defense Placement
