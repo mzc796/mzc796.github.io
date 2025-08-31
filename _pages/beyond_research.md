@@ -14,11 +14,11 @@ I am fascinated by the detailed, sophisticated, time-consuming, beautiful projec
 
 ![(3D_Beaded_Rabbit_Girl)]({{ "/images/rabbit_girl.jpg" | relative_url }}){: .align-left .third }
 
-![(Paint)]({{ "/images/succulent.jpg" | relative_url }}){: .align-left width="150" }
+![(Paint)]({{ "/images/succulent.jpg" | relative_url }}){: .align-left width="140" }
 
 ![(Only for Chloe)]({{ "/images/cakes.jpg" | relative_url }}){: .align-left .third }
 
-![(Birthday Cake)]({{ "/images/birthday_cake.jpg" | relative_url }}){: .align-left width="150" }
+![(Birthday Cake)]({{ "/images/birthday_cake.jpg" | relative_url }}){: .align-left width="140" }
 
 <div style="clear: both;"></div>
 
