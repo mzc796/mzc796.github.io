@@ -1,6 +1,6 @@
 ---
 title: "Research & Projects"
-permalink: /projects/
+permalink: /_pages/projects/
 layout: single
 author_profile: true
 classes: wide
