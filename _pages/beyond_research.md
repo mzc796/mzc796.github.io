@@ -20,7 +20,7 @@ I am also fascinated by the detailed, sophisticated, time-consuming, beautiful p
 
 ## Motherhood
 
-Giving up is not part of my plan, even with 0 publications and 1 newborn when I was in the 5th year of my PhD. I have the best advisors ever.
+Giving up is not part of my plan, even with 0 publications and 1 newborn when I was in the 4th year of my PhD. I have the best advisors ever.
 
 ![Newborn foot in hand]({{ "/images/tinyfoot.jpeg" | relative_url }}){: .align-right width="360" }
 
