@@ -1,10 +1,26 @@
 ---
-title: "Projects"
-permalink: /projects/
+title: "Research & Projects"
+permalink: /research/
 layout: single
 author_profile: true
 classes: wide
 ---
+
+# Security Philosophy
+
+![Octopus]({{ "/images/octopus.png" | relative_url }}){: .align-left width="280" }
+![Owl]({{ "/images/owl.JPG" | relative_url }}){: .align-left width="280" }
+![Chameleon]({{ "/images/chameleon.JPG" | relative_url }}){: .align-left width="280" }
+![Security that blends into its ecosystem]({{ "/images/disguise.jpg" | relative_url }}){: .align-left width="280" }
+<br clear="all"/>
+**This is the security I strive for:**
+- **Light-weight.** Small footprint, small overhead.
+- **Ecosystem-native.** Fits naturally into existing workflows—no bolt-ons.
+- **Stealthy while protecting.** Quiet by default; visible when it matters.
+
+<br clear="all"/>
+
+# Projects
 
 ## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf]({{ "/files/CCS_p3704-chen.pdf" | relative_url }})** · **[bib]({{ "/files/marionette_ccs24.bib" | relative_url }})**
 
