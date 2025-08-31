@@ -10,15 +10,17 @@ Welcome to Mingming's webpage! I am an assistant professor in Computer Science a
 
 ## PhD Openings
 
-I am recruiting **two fully funded PhD students in Spring/Fall 2026** to design and build a next-generation SDN testbed. Research topics you can pursue are:
-- **SDN-orchestrated Smart Agriculture**: Our flagship vertical, where a unified orchestrator securely coordinates UAVs, in-field sensors, and edge compute via an SDN controller—abstracting heterogeneous resources and enabling closed-loop sensing-to-actuation for crop monitoring and management that supports food security.
-> **Why smart agriculture?**  
-> We maintain active collaborations with precision-agriculture professors at K-State. 
-- **Security & Privacy of 5G network slicing**: Investigate cross-slice isolation, side-channel defenses, and privacy-preserving orchestration to stop leakage and abuse of resources in multi-tenant 5G cores.  
-- **Security of SDN and Programmable Data Plane**: Build a protocol-agnostic security toolbox—combining misuse-driven testing, interface-aware fuzzing, and dynamic invariants—to uncover and mitigate cross-layer vulnerabilities.
+I am recruiting **two fully funded PhD students for Spring or Fall 2026** to design and build a next-generation SDN testbed. Research topics include:
 
-Please send me your CV, transcript, and a brief research statement if you are interested.
+- **SDN-orchestrated Smart Agriculture**: Our flagship *vertical*, where a unified orchestrator securely coordinates UAVs, in-field sensors, and edge compute via an SDN controller—abstracting heterogeneous resources and **enabling closed-loop sensing-to-actuation** for crop monitoring and management, supporting food security.  
+  > **Why smart agriculture?** We maintain active collaborations with precision-agriculture faculty at K-State.
 
+- **Security & Privacy of next-G Network Slicing**: **Security** — enforce trustworthy network state (cross-verified, manipulation-resistant) to maintain Service Level Agreement (SLA), isolation, and correct slicing/routing by preventing controller–ground-truth mismatches. **Privacy** — share synthetic per-slice views that reveal only what’s needed for coordination and resource negotiation.
+
+
+- **Security of SDN and Programmable Data Planes**: Build a protocol-agnostic security toolbox—combining misuse-driven testing, interface-aware fuzzing, and dynamic invariants—to uncover and mitigate cross-layer vulnerabilities.
+
+**How to apply:** Please email your CV, transcript, and a brief research statement.
 
 
 News
