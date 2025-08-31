@@ -22,12 +22,11 @@ classes: wide
 
 # PhD Research Paths
 ## Evolving Network Security in the Era of Network Programmability **[pdf]({{ "/files/CCS_Doctoral_Symposium_Camera_Ready_updated.pdf" | relative_url }})** · **[bib]({{ "/files/ccs_dr_symposium.bib" | relative_url }})**
-![SDN Security](/images/research_paths.png){: .align-right width="600"}
+![SDN Security](/images/research_paths.png){: .align-center width="600"}
+<br clear="all"/>
 
-On the one hand, SDN enhances network security. We developed coordinated sampling with P4-programmable switches to assist scalable network sampling for network security analysis. 
-On the other hand, SDN exposes network vulnerabilities. I discovered three vulnerabilities, each with assigned CVEs.  
-The insecure control plane provides us a chance to first initiate a globalized topology poisoning attack from the malicious application or a malicious controller in the cluster. This attack can induce the controller to divert flows away from the sampling point and cause other issues, such as eavesdropping, black hole, loopback, etc. 
-Due to the above reasons, I strive to protect the SDN advantages by fortifying the SDN control plane. 
+On the one hand, SDN enhances network security. 
+On the other hand, SDN exposes network vulnerabilities. 
 
 # Projects
 ## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf]({{ "/files/CCS_p3704-chen.pdf" | relative_url }})** · **[bib]({{ "/files/marionette_ccs24.bib" | relative_url }})**
