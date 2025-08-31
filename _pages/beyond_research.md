@@ -24,7 +24,7 @@ Giving up is not part of my plan, even with 0 publications and 1 newborn when I 
 
 
 ![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.jpg" | relative_url }}){: .align-left width="360" }
-![Newborn foot in hand]({{ "/images/tinyfoot.jpeg" | relative_url }}){: .align-right width="360" }
+![Newborn foot in hand]({{ "/images/nurse_chloe.png" | relative_url }}){: .align-right width="360" }
 
 <br clear="all"/>
 
