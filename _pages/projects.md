@@ -1,3 +1,4 @@
+> See also: [Security Philosophy](/security-philosophy/)
 ---
 title: "Projects"
 permalink: /projects/
@@ -5,8 +6,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-> See also: [Security Philosophy](/security-philosophy/)
-> 
+
 ## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf]({{ "/files/CCS_p3704-chen.pdf" | relative_url }})** · **[bib]({{ "/files/marionette_ccs24.bib" | relative_url }})**
 
 
