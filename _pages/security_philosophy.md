@@ -5,9 +5,9 @@ layout: single
 author_profile: true
 classes: wide
 ---
-![Chameleon]({{ "chameleon.JPG" | relative_url }}){: .align-right width="280" }
-![Owl]({{ "owl.JPG" | relative_url }}){: .align-right width="280" }
-![Security that blends into its ecosystem]({{ "chameleon&owl.jpg" | relative_url }}){: .align-right width="280" }
+![Chameleon]({{ "/images/chameleon.JPG" | relative_url }}){: .align-right width="280" }
+![Owl]({{ "/images/owl.JPG" | relative_url }}){: .align-right width="280" }
+![Security that blends into its ecosystem]({{ "/images/chameleon&owl.jpg" | relative_url }}){: .align-right width="280" }
 
 **This is the security I strive for:**
 - **Light-weight:** Minimal overhead and low friction to deploy.
