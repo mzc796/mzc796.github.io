@@ -19,7 +19,7 @@ Leveraging the globalized topology poisoning attack capability, I designed a rei
 
 ---
 
-## Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints **[pdf](https://drive.google.com/file/d/1LL-ICCCN-paper-example/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1LL-bib-example/view?usp=sharing)**
+## Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints **[pdf]({{ "/files/coord_sampling_icccn24.pdf" | relative_url }})** · **[bib]({{ "/files/coord_sampling_icccn24.bib" | relative_url }})**
 
 ### P4-driven Coordinated Sampling ![Coord_Sampling / coord_sampling](/images/overcooked.jpg){: .align-right width="320"}
 To address the challenge of high-rate flow-based sampling within the constraints of limited resources on each switch, a coordinated sampling framework is developed to place multiple P4-programmable switches along a flow to sample network packets with coordination. This framework provides dynamic sampling point activation, deactivation, and run-time configuration, capitalizing on the programmability of P4.
@@ -35,7 +35,7 @@ Our budgeted optimal algorithm efficiently places sampling points in evaluated n
 
 ---
 
-## OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget **[pdf](https://drive.google.com/file/d/1OPTISAN-paper-example/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1OPTISAN-bib-example/view?usp=sharing)**
+## OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget **[pdf]({{ "/files/usenixsecurity-24_george.pdf" | relative_url }})** · **[bib]({{ "/files/optisan_usenixsec24.bib" | relative_url }})**
 
 ### Protect Spatial Memory Errors ![OPTISAN / opti_san](/images/dr_mario.png){: .align-right width="320"}
 Spatial memory errors, such as buffer overflow, have been widely observed but are challenging to mitigate effectively within an affordable performance overhead. OPTISAN addresses this challenge by recognizing that identity-based and location-based defenses can impose varying overhead levels when safeguarding against the same unsafe memory operations. To maximize protection against exploitable objects, OPTISAN strategically applies multiple spatial memory defenses across the call graph.
