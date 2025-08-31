@@ -20,6 +20,10 @@ classes: wide
 - **Stealthy while protecting** — unobtrusive by default; explicit when needed.
 <br clear="all"/>
 
+# PhD Research Paths
+
+![SDN Security](/images/research_paths.png){: .align-right width="320"}
+
 # Projects
 ## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning **[pdf]({{ "/files/CCS_p3704-chen.pdf" | relative_url }})** · **[bib]({{ "/files/marionette_ccs24.bib" | relative_url }})**
 
