@@ -1,0 +1,19 @@
+---
+title: "Security Philosophy"
+permalink: /security-philosophy/
+layout: single
+author_profile: true
+classes: wide
+---
+![Chameleon]({{ "chameleon.JPG" | relative_url }}){: .align-right width="280" }
+![Owl]({{ "owl.JPG" | relative_url }}){: .align-right width="280" }
+![Security that blends into its ecosystem]({{ "chameleon&owl.jpg" | relative_url }}){: .align-right width="280" }
+
+**This is the security I want.**
+- **Light-weight.**
+- **Ecosystem-native.**
+- **Stealthy while protecting.**
+- **Resilient.**
+- **Measurable.**
+
+<br clear="all"/>
