@@ -8,7 +8,7 @@ classes: wide
 ![Chameleon]({{ "/images/chameleon.JPG" | relative_url }}){: .align-left width="280" }
 ![Owl]({{ "/images/owl.JPG" | relative_url }}){: .align-left width="280" }
 ![Security that blends into its ecosystem]({{ "/images/chameleon&owl.jpg" | relative_url }}){: .align-left width="280" }
-
+<br clear="all"/>
 **This is the security I strive for:**
 - **Light-weight:** Minimal overhead and low friction to deploy.
 - **Ecosystem-native:** Fits naturally into existing systems and workflows—no bolt-ons.
