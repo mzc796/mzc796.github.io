@@ -14,10 +14,8 @@ By identifying an overlooked vulnerability in which flow entries designed for tr
 I successfully deployed Marionette attacks on both ONOS and OpenDaylight clusters, and five open-source controllers, while systematically evading existing defenses. I also show that Marionette can attack nine different SDN discovery protocols. The related video demos are on YouTube [ODL](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [ONOS_cluster](https://www.youtube.com/watch?v=dQw4w9WgXcQ). The related vulnerabilities I disclosed are [CVE-2024-37018](https://nvd.nist.gov/vuln/detail/CVE-2024-37018), [CVE-2024-46942](https://nvd.nist.gov/vuln/detail/CVE-2024-46942), and [CVE-2024-46943](https://nvd.nist.gov/vuln/detail/CVE-2024-46943).
 
 ### Poisonous Topology Computation
-Leveraging the globalized topology poisoning attack capability, I designed a reinforcement learning (RL) model to compute a deceptive topology with the same degree sequence and high graph similarity to the real topology, tailored to specific goals. The RL model can generate a poisoned topology that is 92% similar to the original topology while attracting more than 60% additional flows to the eavesdropping point on a 36-node fat-tree topology.
+Leveraging the globalized topology poisoning attack capability, I designed a reinforcement learning (RL) model to compute a deceptive topology with the same degree sequence and high graph similarity to the real topology, tailored to specific goals. The RL model can generate a poisoned topology that is 92% similar to the original topology while attracting more than 60% additional flows to the eavesdropping point on a 36-node fat-tree topology. The action-prior technology is adopted to accelerate training speed, enabling us to compute the deceptive topology only using CPUs.
 
-The action-prior technology is adopted to accelerate training speed enabling us to compute the deceptive topology only using CPU.
-<br clear="all"/>
 ---
 
 ## Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints **[pdf](https://drive.google.com/file/d/1LL-ICCCN-paper-example/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1LL-bib-example/view?usp=sharing)**
@@ -25,10 +23,10 @@ The action-prior technology is adopted to accelerate training speed enabling us 
 ### P4-driven Coordinated Sampling ![Coord_Sampling / coord_sampling](/images/overcooked.jpg){: .align-right width="320"}
 To address the challenge of high-rate flow-based sampling within the constraints of limited resources on each switch, a coordinated sampling framework is developed to place multiple P4-programmable switches along a flow to sample network packets with coordination. This framework provides dynamic sampling point activation, deactivation, and run-time configuration, capitalizing on the programmability of P4.
 
-Our P4 coordinated sampling algorithm incurs negligible overhead on throughput and round-trip time with substantially low activation and deactivation time (around 0.05 seconds) as demonstrated on physical Arista 7170CD switches. The P4 code is on [Github](https://github.com/mzc796).
+Our P4 coordinated sampling algorithm incurs negligible overhead on throughput and round-trip time with substantially low activation and deactivation time (around 0.05 seconds) as demonstrated on physical Arista 7170CD switches. The P4 code is on [Github](https://github.com/mzc796/coord_sampling).
 
 ### Budgeted Maximum Multi-Coverage
-Given the substantial cost disparity between P4-programmable switches and ordinary SDN switches, I formulated the placement problem as a budgeted maximum multi-coverage problem, to determine the optimal placement of a budgeted number of P4-programmable switches to achieve maximum flow sampling coverage.
+Given the substantial cost disparity between P4-programmable switches and ordinary SDN switches, I formulated the placement problem as a budgeted maximum multi-coverage problem to determine the optimal placement of a budgeted number of P4-programmable switches to achieve maximum flow sampling coverage.
 
 This NP-complete integer linear programming problem is proven pseudo-polynomial time solvable on a realist network topology by leveraging the balanced matrix property and the experiment aligns with this result.
 
