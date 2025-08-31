@@ -8,7 +8,7 @@ classes: wide
 
 # Research Philosophy
 
-I believe research should address real-world problems with social impact, especially those that are often overlooked, which can leave systems open to serious security vulnerabilities. My approach emphasizes experimentation and system-building, guided by cross-disciplinary thinking. I value clarity in communication—“less is more”—and strive to convey complex ideas in intuitive, pictorial ways.
+I believe research should address real-world problems with social impact, especially those that are often overlooked, which can leave systems open to serious security vulnerabilities. My approach emphasizes experimentation and system-building, guided by cross-disciplinary thinking. I value clarity—making complex ideas intuitive and accessible—and I use conciseness as a tool to achieve it. “Less is more” is a principle I learned from my PhD journey, and it continues to shape how I write, present, and design research.
 
 # Security Philosophy
 
