@@ -8,35 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  #- title: "Publications"
-  #  url: /publications/
-
-  #- title: "Talks"
-  #  url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
   - title: "CV"
     url: /files/Mingming_CV_Aug_30.pdf
-  
-  - title: "Research"
-    children:
-      - title: "Security Philosophy"
-        url: /security-philosophy/
-      - title: "Projects"
-        url: /projects/
-    
+  - title: "Security Philosophy"
+    url: /security-philosophy/
+  - title: "Projects"
+    url: /projects/
   - title: "Beyond Research"
     url: /beyond_research/
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  #- title: "Guide"
-  #  url: /markdown/
