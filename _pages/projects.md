@@ -7,6 +7,7 @@ classes: wide
 ---
 
 ## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning
+![Marionette / topology poisoning](/images/marionette.png){: .align-right width="320"}
 **[pdf](https://drive.google.com/file/d/1v5k8l3S4j4d2eW0b1r7S8mS0yHcD8m8t/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1d2Z3wQkXf-bib-example/view?usp=sharing)**
 
 ### Flow entry-induced Topology Poisoning
@@ -18,7 +19,7 @@ I successfully deployed Marionette attacks on both ONOS and OpenDaylight cluster
 Leveraging the globalized topology poisoning attack capability, I designed a reinforcement learning (RL) model to compute a deceptive topology with the same degree sequence and high graph similarity to the real topology, tailored to specific goals. The RL model can generate a poisoned topology that is 92% similar to the original topology while attracting more than 60% additional flows to the eavesdropping point on a 36-node fat-tree topology.
 
 The action-prior technology is adopted to accelerate training speed enabling us to compute the deceptive topology only using CPU.
-
+<br clear="all"/>
 ---
 
 ## Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints
