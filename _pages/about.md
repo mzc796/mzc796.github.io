@@ -11,7 +11,7 @@ Welcome to Mingming's webpage! I am an assistant professor in Computer Science a
 ## PhD Openings
 
 I am recruiting **two fully funded PhD students in Spring/Fall 2026** to design and build a next-generation SDN testbed. Research topics you can pursue are:
-- **SDN-orchestrated Smart Agriculture**: Our flagship vertical, where a unified orchestrator securely coordinates UAVs, in-field sensors, and edge compute via SDN controller—reducing human-in-the-loop, abstracting resources, and enabling closed-loop crop monitoring & management that supports food security.
+- **SDN-orchestrated Smart Agriculture**: Our flagship vertical, where a unified orchestrator securely coordinates UAVs, in-field sensors, and edge compute via an SDN controller—abstracting heterogeneous resources and enabling closed-loop sensing-to-actuation for crop monitoring and management that supports food security.
 > **Why smart agriculture?**  
 > We maintain active collaborations with precision-agriculture professors at K-State. 
 - **Security & Privacy of 5G network slicing**: Investigate cross-slice isolation, side-channel defenses, and privacy-preserving orchestration to stop leakage and abuse of resources in multi-tenant 5G cores.  
