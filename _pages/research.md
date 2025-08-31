@@ -22,7 +22,7 @@ classes: wide
 
 # PhD Research Paths
 ## Evolving Network Security in the Era of Network Programmability **  **[pdf]({{ "/files/CCS_Doctoral_Symposium_Camera_Ready_updated.pdf" | relative_url }})** · **[bib]({{ "/files/ccs_dr_symposium.bib" | relative_url }})**
-![SDN Security](/images/research_paths.png){: .align-right width="320"}
+![SDN Security](/images/research_paths.png){: .align-right width="520"}
 
 On the one hand, SDN enhances network security. We developed coordinated sampling with P4-programmable switches to assist scalable network sampling for network security analysis. 
 On the other hand, SDN exposes network vulnerabilities. I discovered three vulnerabilities, each with assigned CVEs.  
