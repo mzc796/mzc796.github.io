@@ -10,7 +10,7 @@ classes: wide
 
 I am fascinated by the detailed, sophisticated, beautiful projects. They used to be all kinds of handicrafts. Now I find a more meaningful mission --- research.
 
-![Handmade hamburger bag]({{ "/images/bag.jpg" | relative_url }}){: .align-left width="300" }
+![Handmade hamburger bag]({{ "/images/hamburger.jpg" | relative_url }}){: .align-left width="300" }
 
 ![(3D_Beaded_Rabbit_Girl)]({{ "/images/rabbit_girl.jpg" | relative_url }}){: .align-left width="300" }
 
