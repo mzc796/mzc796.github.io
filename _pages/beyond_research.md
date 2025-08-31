@@ -10,13 +10,13 @@ classes: wide
 
 I am fascinated by the detailed, sophisticated, beautiful projects. They used to be all kinds of handicrafts. Now I find a more meaningful mission --- research.
 
-![Handmade hamburger bag]({{ "/images/hamburger.jpg" | relative_url }}){: .align-left width="320" }
+![Handmade hamburger bag]({{ "/images/hamburger.jpg" | relative_url }}){: .align-left width="340" }
 
-![(3D_Beaded_Rabbit_Girl)]({{ "/images/rabbit_girl.jpg" | relative_url }}){: .align-left width="320" }
+![(3D_Beaded_Rabbit_Girl)]({{ "/images/rabbit_girl.jpg" | relative_url }}){: .align-left width="340" }
 
-![(Paint)]({{ "/images/succulent.jpg" | relative_url }}){: .align-left width="320" }
+![(Paint)]({{ "/images/succulent.jpg" | relative_url }}){: .align-left width="340" }
 
-![(Birthday Cake)]({{ "/images/birthday_cake.jpg" | relative_url }}){: .align-left width="320" }
+![(Birthday Cake)]({{ "/images/birthday_cake.jpg" | relative_url }}){: .align-left width="340" }
 
 <div style="clear: both;"></div>
 
