@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning
-![Marionette / topology poisoning](/images/marionette.png){: .align-right width="320"}
+![Marionette / topology poisoning](/images/topo_poisoning.png){: .align-right width="320"}
 **[pdf](https://drive.google.com/file/d/1v5k8l3S4j4d2eW0b1r7S8mS0yHcD8m8t/view?usp=sharing)** · **[bib](https://drive.google.com/file/d/1d2Z3wQkXf-bib-example/view?usp=sharing)**
 
 ### Flow entry-induced Topology Poisoning
