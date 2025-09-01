@@ -10,7 +10,6 @@ I am an assistant professor in Computer Science at **Kansas State University**. 
 
 ## PhD Openings
 I am recruiting **two fully funded PhD students for Spring or Fall 2026** to design and build a next-generation SDN testbed. Research topics include:
-
 - **SDN-orchestrated Smart Agriculture**: Our flagship *vertical*, where a unified orchestrator securely coordinates UAVs, in-field sensors, and edge compute via an SDN controller—abstracting heterogeneous resources and enabling closed-loop sensing-to-actuation for crop monitoring and management, supporting food security.  
   > **Why smart agriculture?** We maintain active collaborations with precision-agriculture faculty at K-State.
 - **Security & Privacy of next-G Network Slicing**: Security — enforce trustworthy network state to maintain Service Level Agreement (SLA), isolation, and correct slice routing/placement in network slicing, preventing controller–ground-truth mismatches. Privacy — share synthetic per-slice views that reveal only what’s needed for coordination and resource negotiation.
