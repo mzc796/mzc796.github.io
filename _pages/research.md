@@ -21,7 +21,7 @@ My research philosophy is grounded in addressing real-world problems with social
 **The security I strive for:**
 - **Lightweight** — small footprint, small overhead
 - **Ecosystem-native** — fits naturally into existing workflows
-- **Obfuscating while protecting** — unobtrusive by default; explicit when needed.
+- **Obfuscating while protecting** — camouflages to attackers, transparent to defenders.
 <br clear="all"/>
 
 
