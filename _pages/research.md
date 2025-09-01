@@ -8,7 +8,7 @@ classes: wide
 
 # Research Philosophy
 
-My research philosophy is grounded in addressing real-world problems with social impact, particularly those that are often overlooked, as they can leave systems open to serious security vulnerabilities. I emphasize experimentation and system-building, informed by cross-disciplinary thinking. I value clarity—making complex ideas intuitive and accessible—and use conciseness as a tool to achieve it. “Less is more” is a principle I learned during my PhD journey, and it continues to guide how I write, present, design research, and live.
+My research philosophy is grounded in addressing real-world problems with social impact, particularly those that are often overlooked, as they can leave systems open to serious security vulnerabilities. I emphasize experimentation and system-building, informed by cross-disciplinary thinking. I value clarity—making complex ideas intuitive and pictorial—and use conciseness as a tool to achieve it. “Less is more” is a principle I learned during my PhD journey, and it continues to guide how I write, present, design research, and live.
 
 # Security Philosophy
 
