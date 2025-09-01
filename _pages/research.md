@@ -30,6 +30,7 @@ My research philosophy is grounded in addressing real-world problems with social
 <br clear="all"/>
 
 On the one hand, SDN enhances network security. 
+
 On the other hand, SDN exposes network vulnerabilities. 
 
 # Projects
