@@ -24,7 +24,9 @@ My research philosophy is grounded in addressing real-world problems with social
 - **Stealthy while protecting** — unobtrusive by default; explicit when needed.
 <br clear="all"/>
 
+
 # PhD Research Paths
+
 ## Evolving Network Security in the Era of Network Programmability **[pdf]({{ "/files/CCS_Doctoral_Symposium_Camera_Ready_updated.pdf" | relative_url }})** · **[bib]({{ "/files/ccs_dr_symposium.bib" | relative_url }})**
 ![SDN Security](/images/research_paths.png){: .align-center width="600"}
 <br clear="all"/>
