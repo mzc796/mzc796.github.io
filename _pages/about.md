@@ -19,6 +19,7 @@ I am recruiting **two fully funded PhD students for Spring or Fall 2026** to des
 
 News
 ======
+- [09/29/2025] [MINK-MIC](https://www.minkwic.org/) is incoming (Oct. 3-4, Lenexa, KS)! I will serve as a panelist for cybersecurity in the age of AI, a poster competition judge, and give a 15-minute talk on Evolving Network Security in the Era of Network Programmability. Looking forward to meeting the community!
 - [05/19/2025] I’m excited to be joining [Kansas State University](https://kcats.k-state.edu/) as a tenure-track Assistant Professor in August 2025! I’m looking for motivated PhD students interested in networked systems and security research. Feel free to send me your CV if interested.
 
 - [02/18/2025] I successfully defended my thesis! I am deeply grateful for the invaluable mentorship and guidance from my committee and collaborators!
