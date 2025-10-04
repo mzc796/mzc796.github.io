@@ -24,10 +24,9 @@ I am fascinated by the detailed, sophisticated, beautiful projects. They used to
 
 ## Event
 
-![Let's find Waldo!]( /images/MINK_WIC.jpeg ){: .align-left width="500" }
+Let's find Waldo! [2025 MINK-WIC](https://www.minkwic.org/)
 
-
-*Let's find Waldo! [2025 MINK-WIC](https://www.minkwic.org/)*
+![Let's find Waldo!]( /images/MINK_WIC.jpeg ){: .align-center width="500" }
 
 <div style="clear: both;"></div>
 
