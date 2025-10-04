@@ -24,10 +24,11 @@ I am fascinated by the detailed, sophisticated, beautiful projects. They used to
 
 ## Event
 
-<p style="text-align: center;">
-  <img src="{{ '/images/MINK_WIC.jpeg' | relative_url }}" alt="Let's find Waldo!" width="320"><br>
-  <em>Let's find Waldo! <a href="https://www.minkwic.org/">2025 MINK-WIC</a></em>
-</p>
+![Let's find Waldo!]( /images/MINK_WIC.jpeg ){: .align-left width="500" }
+
+*Let's find Waldo! [2025 MINK-WIC](https://www.minkwic.org/)*
+
+<div style="clear: both;"></div>
 
 ---
 
