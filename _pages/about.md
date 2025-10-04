@@ -26,7 +26,7 @@ News
 
 - [01/29/2025] I am serving as a Program Committee member for the IEEE/ACM Workshop on the Internet of Safe Things ([SafeThings 2025](https://safethings25.ieee-security.org)).
 
-- [11/26/2024] I am honored to have been selected as a member of the USENIX Security 2025 Artifact Evaluation Committee.
+- [11/26/2024] I am honored to have been selected as a member of the [USENIX Security 2025 Artifact Evaluation Committee](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts).
 
 - [10/08/2024] I will be delivering two presentations ([11 am Oct 14](https://www.sigsac.org/ccs/CCS2024/program/doctoral-symposium.html), [2:45 pm Oct 17](https://www.sigsac.org/ccs/CCS2024/program/schedule.html)) at CCS 2024 in Salt Lake City, USA (Oct 14-18, 2024). Looking forward to engaging in research discussions!
 
