@@ -26,6 +26,7 @@ I am fascinated by the detailed, sophisticated, beautiful projects. They used to
 
 ![Let's find Waldo!]( /images/MINK_WIC.jpeg ){: .align-left width="500" }
 
+
 *Let's find Waldo! [2025 MINK-WIC](https://www.minkwic.org/)*
 
 <div style="clear: both;"></div>
