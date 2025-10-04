@@ -24,6 +24,7 @@ I am fascinated by the detailed, sophisticated, beautiful projects. They used to
 
 ## Event
 ![Let's find Waldo! [2025 MINK-WIC](https://www.minkwic.org/)]({{ "/images/MINK_WIC.jpeg" | relative_url }}){: .align-left width="320" }
+<div style="clear: both;"></div>
 
 ---
 
