@@ -15,7 +15,7 @@ I am recruiting **two fully funded PhD students for Fall 2026 and Spring 2027 **
 - **Security & Privacy of next-G Network Slicing**: Security — enforce trustworthy network state to maintain Service Level Agreement (SLA), isolation, and correct slice routing/placement in network slicing, preventing controller–ground-truth mismatches. Privacy — share synthetic per-slice views that reveal only what’s needed for coordination and resource negotiation.
 - **Security of SDN and Programmable Data Planes**: Build a protocol-agnostic security toolbox—combining misuse-driven testing, interface-aware fuzzing, and dynamic invariants—to uncover and mitigate cross-layer vulnerabilities.
 
-**How to apply:** Please email your CV, transcript, and a brief research statement.
+**How to apply:** Please email your CV, transcript, and a brief research statement. Email subject: Prospective PhD application.
 
 News
 ======
