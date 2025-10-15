@@ -38,6 +38,8 @@ The philosophy is that if there is no time to sleep, eat, or even pee, there is 
 Set the fire to rise from the ashes like a phoenix 🐦‍🔥!
 
 ![TinyFoot]({{ "/images/tinyfoot.jpeg" | relative_url }}){: .align-left width="320" }
+<div style="clear: both;"></div>
+
 Giving up has never been part of my plan—even when I had zero publications and a newborn in the fourth year of my PhD. A baby may half your time on research but triple I’m grateful to have had the best advisors!
 
 ![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.jpg" | relative_url }}){: .align-left width="320" }
