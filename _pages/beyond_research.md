@@ -33,8 +33,12 @@ Let's find Waldo! [2025 MINK-WIC](https://www.minkwic.org/)
 ---
 
 ## Motherhood
+If you are a PhD student suffering from being isolated, desperate about research, or exhausted from getting rid of this situation, giving birth to a baby may not be a bad idea. [IMPORTANT NOTE: I am not advocating to have a baby!] This can apply to men and women as I have communicated with people. 
+The philosophy is that if there is no time to sleep, eat, or even pee, there is no time to cry about anything. The desire to live life on my terms was so strong that I felt compelled to seize any opportunity to study! to be myself! 
+Set the fire to rise from the ashes like a phoenix 🐦‍🔥!
 
-Giving up has never been part of my plan—even when I had zero publications and a newborn in the fourth year of my PhD. I’m grateful to have had the best advisors!
+![TinyFoot]({{ "/images/tinyfoot.jpg" | relative_url }}){: .align-left width="320" }
+Giving up has never been part of my plan—even when I had zero publications and a newborn in the fourth year of my PhD. A baby may half your time on research but triple I’m grateful to have had the best advisors!
 
 ![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.jpg" | relative_url }}){: .align-left width="320" }
 ![Newborn foot in hand]({{ "/images/nurse_chloe.png" | relative_url }}){: .align-right width="360" }
