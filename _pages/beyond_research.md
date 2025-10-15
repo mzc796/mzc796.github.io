@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-## Myself
+## Myself (INTJ)
 
 I am fascinated by the detailed, sophisticated, beautiful projects. They used to be all kinds of handicrafts. Now I find a more meaningful mission --- research.
 
