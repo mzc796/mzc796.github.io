@@ -37,7 +37,7 @@ If you are a PhD student suffering from being isolated, desperate about research
 The philosophy is that if there is no time to sleep, eat, or even pee, there is no time to cry about anything. The desire to live life on my terms was so strong that I felt compelled to seize any opportunity to study! to be myself! 
 Set the fire to rise from the ashes like a phoenix 🐦‍🔥!
 
-![TinyFoot]({{ "/images/tinyfoot.jpg" | relative_url }}){: .align-left width="320" }
+![TinyFoot]({{ "/images/tinyfoot.jpeg" | relative_url }}){: .align-left width="320" }
 Giving up has never been part of my plan—even when I had zero publications and a newborn in the fourth year of my PhD. A baby may half your time on research but triple I’m grateful to have had the best advisors!
 
 ![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.jpg" | relative_url }}){: .align-left width="320" }
