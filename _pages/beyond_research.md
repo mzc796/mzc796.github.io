@@ -33,14 +33,15 @@ Let's find Waldo! [2025 MINK-WIC](https://www.minkwic.org/)
 ---
 
 ## Motherhood
-If you are a PhD student suffering from being isolated, desperate about research, or exhausted from getting rid of this situation, giving birth to a baby may not be a bad idea. [IMPORTANT NOTE: I am not advocating to have a baby!] This can apply to men and women as I have communicated with people. 
+
+If you are a PhD student feeling isolated, frustrated with research, or exhausted from trying to change that situation, giving birth to a baby may not be a bad idea. (Of course, this is not advice to have a baby — just a reflection on how motherhood shaped my own Ph.D. journey.) I’ve also heard similar reflections from both men and women I’ve talked to.
 The philosophy is that if there is no time to sleep, eat, or even pee, there is no time to cry about anything. The desire to live life on my terms was so strong that I felt compelled to seize any opportunity to study! to be myself! 
 Set the fire to rise from the ashes like a phoenix 🐦‍🔥!
 
 ![TinyFoot]({{ "/images/tinyfoot.jpeg" | relative_url }}){: .align-left width="320" }
 <div style="clear: both;"></div>
 
-Giving up has never been part of my plan—even when I had zero publications and a newborn in the fourth year of my PhD. A baby may half your time on research but triple I’m grateful to have had the best advisors!
+Giving up has never been part of my plan—even when I had zero publications and a newborn in the fourth year of my PhD. A baby may have halved my research time but triple my motivation and resilience. I’m deeply grateful to have had the best advisors!
 
 ![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.jpg" | relative_url }}){: .align-left width="320" }
 ![Newborn foot in hand]({{ "/images/nurse_chloe.png" | relative_url }}){: .align-right width="360" }
