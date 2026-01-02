@@ -11,7 +11,7 @@ My work has appeared in ACM CCS and USENIX Security and has led to the disclosur
 
 ## PhD Openings
 I am recruiting **2-3 fully funded PhD students for Fall 2026 and Spring 2027** to design and build a next-generation SDN testbed. Research topics include:
-- **Security & Privacy of next-G Network Slicing**: Security — enforce trustworthy network state to maintain Service Level Agreement (SLA), isolation, and correct slice routing/placement in network slicing, preventing controller–ground-truth mismatches. Privacy — share synthetic per-slice views that reveal only what’s needed for coordination and resource negotiation.
+- **Security & Privacy of next-G Network Slicing**: Study topology abstraction as a foundational security and privacy interface in network slicing, where incorrect or overly revealing abstractions can lead to SLA violations, isolation failures, and information leakage.
 - **Secure-by-Design SDN Control-Plane Mechanisms**: Investigate principled redesigns of SDN control-plane mechanisms to address architectural vulnerabilities in network discovery and state maintenance, aiming for security by construction rather than reactive defenses.
 - **Information-Flow–Based Security Analysis of SDN Control Planes**: Study SDN control-plane security through the lens of information flow, focusing on how operational data propagate across controller components and the data plane, and how violations of intended information boundaries lead to architectural misuse cases.
 - **Language-Based Security for Programmable Data Planes**: Develop language- and type-based approaches to improve the safety of programmable data planes, with a focus on reasoning about stateful network behavior and preventing unintended data dependencies across network functions.
