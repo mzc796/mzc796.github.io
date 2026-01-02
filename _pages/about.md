@@ -11,10 +11,10 @@ My work has appeared in ACM CCS and USENIX Security and has led to the disclosur
 
 ## PhD Openings
 I am recruiting **2-3 fully funded PhD students for Fall 2026 and Spring 2027** to design and build a next-generation SDN testbed. Research topics include:
-- **SDN-orchestrated Smart Agriculture**: Our flagship *vertical*, where a unified orchestrator securely coordinates UAVs, in-field sensors, and edge compute via an SDN controller—abstracting heterogeneous resources and enabling closed-loop sensing-to-actuation for crop monitoring and management, supporting food security.  
-  > **Why smart agriculture?** We maintain active collaborations with precision-agriculture faculty at K-State.
 - **Security & Privacy of next-G Network Slicing**: Security — enforce trustworthy network state to maintain Service Level Agreement (SLA), isolation, and correct slice routing/placement in network slicing, preventing controller–ground-truth mismatches. Privacy — share synthetic per-slice views that reveal only what’s needed for coordination and resource negotiation.
-- **Security of SDN and Programmable Data Planes**: Build a protocol-agnostic security toolbox—combining misuse-driven testing, interface-aware fuzzing, and dynamic invariants—to uncover and mitigate cross-layer vulnerabilities.
+- **Secure-by-Design SDN Control-Plane Mechanisms**: Investigate principled redesigns of SDN control-plane mechanisms to address architectural vulnerabilities in network discovery and state maintenance, aiming for security by construction rather than reactive defenses.
+- **Information-Flow–Based Security Analysis of SDN Control Planes**: Study SDN control-plane security through the lens of information flow, focusing on how operational data propagate across controller components and the data plane, and how violations of intended information boundaries lead to architectural misuse cases.
+- **Language-Based Security for Programmable Data Planes**: Develop language- and type-based approaches to improve the safety of programmable data planes, with a focus on reasoning about stateful network behavior and preventing unintended data dependencies across network functions.
 
 **How to apply:** Please email your CV, transcript, and a brief research statement. Email subject: Prospective PhD application.
 
