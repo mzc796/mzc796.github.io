@@ -48,5 +48,3 @@ News
 - [05/28/2024] Our paper "[OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget](https://www.usenix.org/conference/usenixsecurity24/presentation/george)" has been accepted at Usenix Security 24'.
 
 - [05/02/2024] Our paper "[Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints](https://ieeexplore.ieee.org/abstract/document/10637612)" has been accepted at ICCCN 24'.
-
-Updated: 07/25/2025
