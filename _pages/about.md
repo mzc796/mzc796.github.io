@@ -20,6 +20,7 @@ I am recruiting **2-3 fully funded PhD students for Fall 2026 and Spring 2027** 
 
 News
 ======
+- [01/30/2026] I was invited to give a [guest talk](https://www.linkedin.com/feed/update/urn:li:activity:7421638950114574336/) at the AI & Cybersecurity Reading Group at the University of Texas at El Paso (UTEP).
 - [12/11/2025] Our paper “[Efficient Lightweight Coordinated Sampling for Dynamic Flows: Theory and Implementation](https://ieeexplore.ieee.org/document/11300298)” has been accepted by IEEE/ACM Transactions on Networking. This work began in 2018 as my first Ph.D. idea and became a seven-year test of perseverance. I am sincerely grateful for my professors’—especially Tom’s—patience, encouragement, and support, which helped me stay committed through many challenges and iterations. I am happy that this work has come to a close in ToN, bringing a meaningful sense of closure to my past seven years.
 - [09/29/2025] [MINK-MIC](https://www.minkwic.org/) is incoming (Oct. 3-4, Lenexa, KS)! I will serve as a panelist for cybersecurity in the age of AI, a poster competition judge, and give a 15-minute talk on Evolving Network Security in the Era of Network Programmability. Looking forward to meeting the community!
 - [05/19/2025] I’m excited to be joining [Kansas State University](https://kcats.k-state.edu/) as a tenure-track Assistant Professor in August 2025! I’m looking for motivated PhD students interested in networked systems and security research. Feel free to send me your CV if interested.
