@@ -20,6 +20,8 @@ I am recruiting **2-3 fully funded PhD students for Fall 2026 and Spring 2027** 
 
 News
 ======
+- [03/10/2026] I am happy to serve as a Program Committee member of the IEEE Symposium on Security and Privacy 2026.
+- [03/07/2026] I am happy to co-host the "Parent in AI" session of the K-8 Coding Contest in Computer Science at K-State!
 - [01/30/2026] I was invited to give an online [guest talk](https://www.linkedin.com/feed/update/urn:li:activity:7421638950114574336/) at the AI & Cybersecurity Reading Group at the University of Texas at El Paso (UTEP).
 - [12/11/2025] Our paper “[Efficient Lightweight Coordinated Sampling for Dynamic Flows: Theory and Implementation](https://ieeexplore.ieee.org/document/11300298)” has been accepted by IEEE/ACM Transactions on Networking. This work began in 2018 as my first Ph.D. idea and became a seven-year test of perseverance. I am sincerely grateful for my professors’—especially Tom’s—patience, encouragement, and support, which helped me stay committed through many challenges and iterations. I am happy that this work has come to a close in ToN, bringing a meaningful sense of closure to my past seven years.
 - [09/29/2025] [MINK-MIC](https://www.minkwic.org/) is incoming (Oct. 3-4, Lenexa, KS)! I will serve as a panelist for cybersecurity in the age of AI, a poster competition judge, and give a 15-minute talk on Evolving Network Security in the Era of Network Programmability. Looking forward to meeting the community!
