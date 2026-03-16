@@ -48,7 +48,7 @@ Leveraging the globalized topology poisoning attack capability, I designed a rei
 
 ---
 
-## Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints **[pdf]({{ "/files/ToN_CoordSamp_final.pdf" | relative_url }})** · **[bib]({{ "/files/coord_sampling_ton.bib" | relative_url }})**
+## Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints **[pdf]({{ "/files/ToN_CoordSamp_final.pdf" | relative_url }})** · **[bib]({{ "/files/coord_sampling_ton_bib" | relative_url }})**
 
 ### P4-driven Coordinated Sampling ![Coord_Sampling / coord_sampling](/images/overcooked.jpg){: .align-right width="320"}
 To address the challenge of high-rate flow-based sampling within the constraints of limited resources on each switch, a coordinated sampling framework is developed to place multiple P4-programmable switches along a flow to sample network packets with coordination. This framework provides dynamic sampling point activation, deactivation, and run-time configuration, capitalizing on the programmability of P4. Our P4 coordinated sampling algorithm incurs negligible overhead on throughput and round-trip time with substantially low activation and deactivation time (around 0.05 seconds) as demonstrated on physical Arista 7170CD switches. The P4 code is on [GitHub](https://github.com/mzc796/coord_sampling).
