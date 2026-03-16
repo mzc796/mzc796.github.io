@@ -66,4 +66,11 @@ Spatial memory errors, such as buffer overflow, have been widely observed but ar
 ### Budgeted Multi-defense Placement
 Given a program's memory operations and their estimated defense overhead, I developed a mixed-integer non-linear programming formulation to calculate an optimal placement utilizing multiple defenses. The entanglement of multiple dimensions (i.e., monitor point k, defense p, and unsafe operation j) of variables introduces the complexity of non-linearity. We use the [indicator constraint](https://docs.gurobi.com/projects/optimizer/en/current/reference/python/model.html#Model.addGenConstrIndicator) of Gurobi to model this constraint. The results indicate that the placement strategy produced by our budgeted multi-defense placement formulation increases protection by 18.5% on average across ten benchmark programs.
 
+# Research Community Resources
+
+Useful resources for students and researchers interested in the computer security publication ecosystem:
+
+- Security conference deadlines: https://sec-deadlines.github.io/
+- Security conference statistics and acceptance rates (Guofei Gu, Texas A&M): https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
+
 ---
