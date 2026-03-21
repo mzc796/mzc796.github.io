@@ -14,7 +14,7 @@ I am recruiting **2-3 fully funded PhD students for Fall 2026 and Spring 2027** 
 - **Security & Privacy of next-G Network Slicing**: Study topology abstraction as a foundational security and privacy interface in network slicing, where incorrect or overly revealing abstractions can lead to SLA violations, isolation failures, and information leakage.
 - **Secure-by-Design SDN Control-Plane Mechanisms**: Investigate principled redesigns of SDN control-plane mechanisms to address architectural vulnerabilities in network discovery and state maintenance, aiming for security by construction rather than reactive defenses.
 - **Information-Flow–Based Security Analysis of SDN Control Planes**: Study SDN control-plane security through the lens of information flow, focusing on how operational data propagate across controller components and the data plane, and how violations of intended information boundaries lead to architectural misuse cases.
-- **Language-Based Security for Programmable Data Planes**: Develop language- and type-based approaches to improve the safety of programmable data planes, with a focus on reasoning about stateful network behavior and preventing unintended data dependencies across network functions.
+- **AI Infrastructure Network Security**: Study security challenges in large-scale AI infrastructures, including accelerator communication and multi-tenant interference. Design mechanisms for isolation, robustness, and trustworthy operation.
 
 **How to apply:** Please email your CV, transcript, and a brief research statement. Email subject: Prospective PhD application.
 
