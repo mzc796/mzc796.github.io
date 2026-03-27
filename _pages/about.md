@@ -20,6 +20,8 @@ I am recruiting **2-3 fully funded PhD students for Fall 2026 and Spring 2027** 
 
 News
 ======
+- [03/26/2026] I will be joining the panel discussion for [ACM-W Women’s Day at K-State](https://www.linkedin.com/feed/update/urn:li:activity:7443118994947035136/) on March 31st, 2026.
+- [03/26/2026] I will be hosting Dr. Teryl Taylor from IBM Research at K-State on April 8th, 2026. You are welcome to join our conversations and [his talk](https://www.linkedin.com/feed/update/urn:li:activity:7443136520364081152/?originTrackingId=uIkn%2FI8G%2F4hyXoFHcQ5PSw%3D%3D)!
 - [03/10/2026] I am happy to serve as a Posters Program Committee member of the IEEE Symposium on Security and Privacy 2026!
 - [03/07/2026] I am happy to co-host the "Parent in AI" session of the [K-8 Coding Contest in Computer Science at K-State](https://www.linkedin.com/posts/kstateengg_k-state-hosted-its-second-k-8-coding-contest-activity-7438309196527456256-loh0/)!
 - [01/30/2026] I was invited to give an online [guest talk](https://www.linkedin.com/feed/update/urn:li:activity:7421638950114574336/) at the AI & Cybersecurity Reading Group at the University of Texas at El Paso (UTEP).
