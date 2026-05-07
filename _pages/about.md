@@ -10,7 +10,7 @@ I am an assistant professor in Computer Science at **Kansas State University**. 
 Building on this foundation, I am exploring security challenges in emerging AI-driven infrastructures, such as GPU cluster communication and RDMA-based systems, where new cross-layer vulnerabilities and trust assumptions arise.
 My work has appeared in ACM CCS and USENIX Security and has led to the disclosure of multiple CVEs affecting widely used SDN controllers. I have hands-on experience with open-source SDN platforms, having contributed code to OpenDaylight earlier in my career. I also serve on program committees and artifact evaluation boards in the security community.
 
-**I will join the Department of Computer Science at the University of Texas at Dallas as an Assistant Professor in August 2026.**
+> **Upcoming:** I will join the Department of Computer Science at the University of Texas at Dallas as an Assistant Professor in August 2026.
 
 ## Prospective Students
 I am always looking for motivated students interested in the security and trustworthiness of programmable and distributed networked systems. My current research interests include:
