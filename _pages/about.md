@@ -10,8 +10,10 @@ I am an assistant professor in Computer Science at **Kansas State University**. 
 Building on this foundation, I am exploring security challenges in emerging AI-driven infrastructures, such as GPU cluster communication and RDMA-based systems, where new cross-layer vulnerabilities and trust assumptions arise.
 My work has appeared in ACM CCS and USENIX Security and has led to the disclosure of multiple CVEs affecting widely used SDN controllers. I have hands-on experience with open-source SDN platforms, having contributed code to OpenDaylight earlier in my career. I also serve on program committees and artifact evaluation boards in the security community.
 
-## PhD Openings
-I am recruiting **2-3 fully funded PhD students for Fall 2026 and Spring 2027** to design and build a next-generation SDN testbed. Research topics include:
+**I will join the Department of Computer Science at the University of Texas at Dallas as an Assistant Professor in August 2026.**
+
+## Prospective Students
+I am always looking for motivated students interested in the security and trustworthiness of programmable and distributed networked systems. My current research interests include:
 - **Security & Privacy of next-G Network Slicing**: Study topology abstraction as a foundational security and privacy interface in network slicing, where incorrect or overly revealing abstractions can lead to SLA violations, isolation failures, and information leakage.
 - **Secure-by-Design SDN Control-Plane Mechanisms**: Investigate principled redesigns of SDN control-plane mechanisms to address architectural vulnerabilities in network discovery and state maintenance, aiming for security by construction rather than reactive defenses.
 - **Information-Flow–Based Security Analysis of SDN Control Planes**: Study SDN control-plane security through the lens of information flow, focusing on how operational data propagate across controller components and the data plane, and how violations of intended information boundaries lead to architectural misuse cases.
