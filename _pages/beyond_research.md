@@ -21,7 +21,7 @@ I am fascinated by the detailed, sophisticated, beautiful projects. They used to
 <div style="clear: both;"></div>
 
 ---
-
+<!-- 
 ## Event
 
 Let's find Waldo! [2025 MINK-WIC](https://www.minkwic.org/)
@@ -46,3 +46,4 @@ Giving up has never been part of my plan—even when I had zero publications and
 ![“Don’t look at motherhood as the end…” artwork]({{ "/images/momnevergiveup.jpg" | relative_url }}){: .align-left width="320" }
 ![Newborn foot in hand]({{ "/images/nurse_chloe.png" | relative_url }}){: .align-right width="360" }
 
+-->
