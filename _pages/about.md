@@ -22,37 +22,44 @@ I am always looking for motivated students interested in the security and trustw
 
 News
 ======
-- [05/24/2026] I am honored to serve as a Technical Program Committee (TPC) member for IEEE INFOCOM 2027, to be held in Honolulu, Hawaii.
-- [03/26/2026] I will be joining the panel discussion for [ACM-W Women’s Day at K-State](https://www.linkedin.com/feed/update/urn:li:activity:7443118994947035136/) on March 31st, 2026.
-- [03/26/2026] I will be hosting Dr. Teryl Taylor from IBM Research at K-State on April 8th, 2026. You are welcome to join our conversations and [his talk](https://www.linkedin.com/feed/update/urn:li:activity:7443136520364081152/?originTrackingId=uIkn%2FI8G%2F4hyXoFHcQ5PSw%3D%3D)!
-- [03/10/2026] I am happy to serve as a Posters Program Committee member of the IEEE Symposium on Security and Privacy 2026!
-- [03/07/2026] I am happy to co-host the "Parent in AI" session of the [K-8 Coding Contest in Computer Science at K-State](https://www.linkedin.com/posts/kstateengg_k-state-hosted-its-second-k-8-coding-contest-activity-7438309196527456256-loh0/)!
-- [01/30/2026] I was invited to give an online [guest talk](https://www.linkedin.com/feed/update/urn:li:activity:7421638950114574336/) at the AI & Cybersecurity Reading Group at the University of Texas at El Paso (UTEP).
-- [12/11/2025] Our paper “[Efficient Lightweight Coordinated Sampling for Dynamic Flows: Theory and Implementation](https://ieeexplore.ieee.org/document/11300298)” has been accepted by IEEE/ACM Transactions on Networking. This work began in 2018 as my first Ph.D. idea and became a seven-year test of perseverance. I am sincerely grateful for my professors’—especially Tom’s—patience, encouragement, and support, which helped me stay committed through many challenges and iterations. I am happy that this work has come to a close in ToN, bringing a meaningful sense of closure to my past seven years.
-- [09/29/2025] [MINK-MIC](https://www.minkwic.org/) is incoming (Oct. 3-4, Lenexa, KS)! I will serve as a panelist for cybersecurity in the age of AI, a poster competition judge, and give a 15-minute talk on Evolving Network Security in the Era of Network Programmability. Looking forward to meeting the community!
-- [05/19/2025] I’m excited to be joining [Kansas State University](https://kcats.k-state.edu/) as a tenure-track Assistant Professor in August 2025! I’m looking for motivated PhD students interested in networked systems and security research. Feel free to send me your CV if interested.
+* [05/24/2026] I will serve as a Technical Program Committee (TPC) member for IEEE INFOCOM 2027, to be held in Honolulu, Hawaii.
 
-- [02/18/2025] I successfully defended my thesis! I am deeply grateful for the invaluable mentorship and guidance from my committee and collaborators!
+* [03/26/2026] I will join the panel discussion for [ACM-W Women’s Day at K-State](https://www.linkedin.com/feed/update/urn:li:activity:7443118994947035136/) on March 31, 2026.
 
-- [01/29/2025] I am serving as a Program Committee member for the IEEE/ACM Workshop on the Internet of Safe Things ([SafeThings 2025](https://safethings25.ieee-security.org)).
+* [03/26/2026] I will host Dr. Teryl Taylor from IBM Research at K-State on April 8, 2026. You are welcome to join our conversations and [his talk](https://www.linkedin.com/feed/update/urn:li:activity:7443136520364081152/?originTrackingId=uIkn%2FI8G%2F4hyXoFHcQ5PSw%3D%3D).
 
-- [11/26/2024] I am honored to have been selected as a member of the [USENIX Security 2025 Artifact Evaluation Committee](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts).
+* [03/10/2026] I will serve as a Posters Program Committee member for the IEEE Symposium on Security and Privacy 2026.
 
-- [10/08/2024] I will be delivering two presentations ([11 am Oct 14](https://www.sigsac.org/ccs/CCS2024/program/doctoral-symposium.html), [2:45 pm Oct 17](https://www.sigsac.org/ccs/CCS2024/program/schedule.html)) at CCS 2024 in Salt Lake City, USA (Oct 14-18, 2024). Looking forward to engaging in research discussions!
+* [03/07/2026] I co-hosted the “Parenting in AI” session at the [K-8 Coding Contest in Computer Science at K-State](https://www.linkedin.com/posts/kstateengg_k-state-hosted-its-second-k-8-coding-contest-activity-7438309196527456256-loh0/).
 
-- [10/08/2024] I will be presenting two posters at Penn State [Industry Day 2024](https://insr.psu.edu/industry-day-2024/).
+* [01/30/2026] I gave an online [guest talk](https://www.linkedin.com/feed/update/urn:li:activity:7421638950114574336/) at the AI & Cybersecurity Reading Group at the University of Texas at El Paso (UTEP).
 
-- [08/25/2024] My submission of "[Evolving Network Security In the Era of Network Programmability](https://doi.org/10.1145/3658644.3690859
-)" has been accepted for presentation at the ACM CCS’24 Doctoral Symposium.
+* [12/11/2025] Our paper “[Efficient Lightweight Coordinated Sampling for Dynamic Flows: Theory and Implementation](https://ieeexplore.ieee.org/document/11300298)” was accepted by IEEE/ACM Transactions on Networking.
 
-- [08/24/2024] I won all badges for the [artifacts evaluation](https://zenodo.org/records/13292328) of our paper "Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning" at CCS 24'.
+* [09/29/2025] I will participate in [MINK-MIC 2025](https://www.minkwic.org/) as a cybersecurity panelist, poster competition judge, and speaker. I will give a 15-minute talk on “Evolving Network Security in the Era of Network Programmability.”
 
-- [08/24/2024] Our paper "[Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning](https://dl.acm.org/doi/10.1145/3658644.3690345)" has been accepted at CCS 24'.
+* [05/19/2025] I will join [Kansas State University](https://kcats.k-state.edu/) as a tenure-track Assistant Professor in August 2025. I am recruiting Ph.D. students interested in networked systems and security.
 
-- [07/29-31/2024] I presented our work "Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints" in ICCCN 24' (Jul. 29th, 2024, Kona, HI, US).
+* [02/18/2025] I successfully defended my Ph.D. thesis.
 
-- [06/10-14/2024] I volunteered at Penn State [CSE Summer Camp](https://sites.psu.edu/csesummercamp2024/).
+* [01/29/2025] I will serve as a Program Committee member for the IEEE/ACM Workshop on the Internet of Safe Things ([SafeThings 2025](https://safethings25.ieee-security.org)).
 
-- [05/28/2024] Our paper "[OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget](https://www.usenix.org/conference/usenixsecurity24/presentation/george)" has been accepted at Usenix Security 24'.
+* [11/26/2024] I was invited to serve on the [USENIX Security 2025 Artifact Evaluation Committee](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts).
 
-- [05/02/2024] Our paper "[Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints](https://ieeexplore.ieee.org/abstract/document/10637612)" has been accepted at ICCCN 24'.
+* [10/08/2024] I will give two presentations ([11:00 AM, Oct. 14](https://www.sigsac.org/ccs/CCS2024/program/doctoral-symposium.html), [2:45 PM, Oct. 17](https://www.sigsac.org/ccs/CCS2024/program/schedule.html)) at ACM CCS 2024 in Salt Lake City, USA.
+
+* [10/08/2024] I will present two posters at Penn State [Industry Day 2024](https://insr.psu.edu/industry-day-2024/).
+
+* [08/25/2024] My submission “[Evolving Network Security in the Era of Network Programmability](https://doi.org/10.1145/3658644.3690859)” was accepted for presentation at the ACM CCS 2024 Doctoral Symposium.
+
+* [08/24/2024] The [artifact evaluation](https://zenodo.org/records/13292328) for our paper “Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning” received all badges at ACM CCS 2024.
+
+* [08/24/2024] Our paper “[Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning](https://dl.acm.org/doi/10.1145/3658644.3690345)” was accepted by ACM CCS 2024.
+
+* [07/29/2024] I presented our work “Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints” at ICCCN 2024 in Kona, Hawaii, USA.
+
+* [06/10/2024] I volunteered at Penn State [CSE Summer Camp](https://sites.psu.edu/csesummercamp2024/).
+
+* [05/28/2024] Our paper “[OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget](https://www.usenix.org/conference/usenixsecurity24/presentation/george)” was accepted by USENIX Security 2024.
+
+* [05/02/2024] Our paper “[Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints](https://ieeexplore.ieee.org/abstract/document/10637612)” was accepted by ICCCN 2024.
