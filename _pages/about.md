@@ -14,7 +14,7 @@ My work has appeared in ACM CCS and USENIX Security and has led to the disclosur
 
 ## Prospective Students
 I am always looking for motivated students interested in the security and trustworthiness of programmable and distributed networked systems. My current research interests include:
-- **Secure and Trustworthy SDN Control Planes**: Studying information-flow-based security analysis of SDN control planes to uncover architectural misuse cases in network discovery, state maintenance, and controller–data-plane interactions, and designing secure-by-construction control-plane mechanisms.
+- **Secure and Trustworthy SDN Control Planes**: Studying information-flow-based security analysis of SDN control planes to uncover architectural misuse cases in network discovery, state maintenance, and controller–data-plane interactions, and designing secure-by-design control-plane mechanisms.
 - **Security & Privacy of next-G Network Slicing**: Study topology abstraction as a foundational security and privacy interface in network slicing, where incorrect or overly revealing abstractions can lead to SLA violations, isolation failures, and information leakage.
 - **AI Infrastructure Network Security**: Study security challenges in large-scale AI infrastructures, including accelerator communication and multi-tenant interference. Design mechanisms for isolation, robustness, and trustworthy operation.
 
