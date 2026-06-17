@@ -22,8 +22,8 @@ I am always looking for motivated students interested in the security and trustw
 
 News
 ======
-* [05/24/2026] I will serve as a Technical Program Committee (TPC) member for IEEE INFOCOM 2027, to be held in Honolulu, Hawaii.
-
+* [06/16/2026] I will serve as a reviewer for the Future Leaders of AI program at the [ACM AI Leadership Summit](https://aisummit26.acm.org/).
+* [05/24/2026] I will serve as a Technical Program Committee (TPC) member for IEEE INFOCOM 2027.
 * [03/26/2026] I will join the panel discussion for [ACM-W Women’s Day at K-State](https://www.linkedin.com/feed/update/urn:li:activity:7443118994947035136/) on March 31, 2026.
 
 * [03/26/2026] I will host Dr. Teryl Taylor from IBM Research at K-State on April 8, 2026. You are welcome to join our conversations and [his talk](https://www.linkedin.com/feed/update/urn:li:activity:7443136520364081152/?originTrackingId=uIkn%2FI8G%2F4hyXoFHcQ5PSw%3D%3D).
