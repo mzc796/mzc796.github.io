@@ -24,10 +24,12 @@ author:
   # Biographic information
   avatar           : "profile_website.JPG"
   name             : "Mingming Chen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Assistant Professor at The University of Texas at Dallas"
   location         : "Richardson, TX"
   employer         : "The University of Texas at Dallas"
+  office           : "ECSS 3.205"
+  lab              : "ECSS 3.612"
   uri              : # URL
   email            : "mingming.chen@utdallas.edu" 
 
