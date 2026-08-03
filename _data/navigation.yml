@@ -8,11 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "CV"
-    url: /files/Mingming_CV_Mar_26_26.pdf
   - title: "Research"
     url: /research/
-  - title: "Beyond Research"
-    url: /beyond_research/
   - title: "Teaching"
     url: /teaching/
+  - title: "Beyond Research & Teaching"
+    url: /beyond_research/
