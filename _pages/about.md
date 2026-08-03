@@ -6,11 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor in Computer Science at **Kansas State University**. I recently earned my Ph.D. in Computer Science and Engineering from Penn State University. I was honored to be advised by [Tom La Porta](https://www.cse.psu.edu/~tfl12/) and [Trent Jaeger](https://www.trentjaeger.com/). I am also grateful for the IBM Research collaboration and guidance from [Teryl Taylor](https://research.ibm.com/people/teryl-taylor) and [Fred Araujo](https://research.ibm.com/people/frederico-araujo). My research focuses on the security and trustworthiness of programmable and distributed networked systems, with a particular emphasis on Software-Defined Networking (SDN) control planes. Using SDN as a concrete systems substrate, I study how control planes construct global views, make decisions, and can be misled or protected under adversarial manipulation—uncovering architectural vulnerabilities and developing defenses that make system perception and actuation trustworthy by construction.
+I am an assistant professor in Computer Science at **The University of Texas at Dallas**. I earned my Ph.D. in Computer Science and Engineering from Penn State University. I was honored to be advised by [Tom La Porta](https://www.cse.psu.edu/~tfl12/) and [Trent Jaeger](https://www.trentjaeger.com/). I am also grateful for the IBM Research collaboration and guidance from [Teryl Taylor](https://research.ibm.com/people/teryl-taylor) and [Fred Araujo](https://research.ibm.com/people/frederico-araujo). My research focuses on the security and trustworthiness of programmable and distributed networked systems, with a particular emphasis on Software-Defined Networking (SDN) control planes. Using SDN as a concrete systems substrate, I study how control planes construct global views, make decisions, and can be misled or protected under adversarial manipulation—uncovering architectural vulnerabilities and developing defenses that make system perception and actuation trustworthy by construction.
 Building on this foundation, I am exploring security challenges in emerging AI-driven infrastructures, such as GPU cluster communication and RDMA-based systems, where new cross-layer vulnerabilities and trust assumptions arise.
 My work has appeared in ACM CCS and USENIX Security and has led to the disclosure of multiple CVEs affecting widely used SDN controllers. I have hands-on experience with open-source SDN platforms, having contributed code to OpenDaylight earlier in my career. I also serve on program committees and artifact evaluation boards in the security community.
 
-> **Upcoming:** I will join the Department of Computer Science at the University of Texas at Dallas as an Assistant Professor in August 2026.
 
 ## Prospective Students
 I am always looking for motivated students interested in the security and trustworthiness of programmable and distributed networked systems. My current research interests include:
@@ -22,6 +21,7 @@ I am always looking for motivated students interested in the security and trustw
 
 News
 ======
+* [06/17/2026] I will join the Department of Computer Science at the University of Texas at Dallas as an Assistant Professor in August 2026.
 * [06/16/2026] I will serve as a reviewer for the Future Leaders of AI program at the [ACM AI Leadership Summit](https://aisummit26.acm.org/).
 * [05/24/2026] I will serve as a Technical Program Committee (TPC) member for IEEE INFOCOM 2027.
 * [03/26/2026] I will join the panel discussion for [ACM-W Women’s Day at K-State](https://www.linkedin.com/feed/update/urn:li:activity:7443118994947035136/) on March 31, 2026.
