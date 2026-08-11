@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-## Myself (INTJ)
+## Drawn to Detail
 
 I am fascinated by the detailed, sophisticated, beautiful projects. They used to be all kinds of handicrafts. Now I find a more meaningful mission --- research.
 
