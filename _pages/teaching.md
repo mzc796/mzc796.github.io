@@ -10,7 +10,7 @@ author_profile: true
 
 * Time: Tuesday & Thursday, 5:30 PM - 6:45 PM
 * Location: ECSS 2.410
-* [Course syllabus]({{ '/files/Operating_Systems_Concepts.pdf' | relative_url }})
+* [Course syllabus]({{ '/files/Operating_System_Concepts.pdf' | relative_url }})
 
 **SDN Security**: Spring 2026
 
