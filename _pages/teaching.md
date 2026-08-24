@@ -6,6 +6,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**Operating Systems Concepts**: Fall 2026
+
+* Time: Tuesday & Thursday, 5:30 PM - 6:45 PM
+* Location: ECSS 2.410
+
+
 **SDN Security**: Spring 2026
 
 * Time: Tuesday & Thursday, 11:30 AM – 12:45 PM
@@ -17,3 +23,4 @@ author_profile: true
 
 * Introduction to Computer Science, Nov. 2025
 * Computer and Information Security, Nov. 2025
+
