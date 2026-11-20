@@ -21,6 +21,7 @@ I am always looking for motivated students interested in the security and trustw
 
 News
 ======
+* [11/20/2026] I will serve as a Technical Program Committee (TPC) member for PST 2027.
 * [08/10/2026] I will serve as a Technical Program Committee (TPC) member for NDSS 2027.
 * [06/17/2026] I will join the Department of Computer Science at the University of Texas at Dallas as an Assistant Professor in August 2026.
 * [06/16/2026] I will serve as a reviewer for the Future Leaders of AI program at the [ACM AI Leadership Summit](https://aisummit26.acm.org/).
